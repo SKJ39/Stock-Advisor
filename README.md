@@ -59,3 +59,6 @@ MA 370.18 296.88 425.43 Mastercard Incorporated
 The program generates `StockOut.txt`, which contains two sections separated by "===":
   - A formatted report of all stocks as they were read from the file
   - A second formatted report of all stocks after being sorted by their 2019-2023 gain/loss (highest to lowest)
+
+## Disclaimer
+This project was created for academic purposes.
