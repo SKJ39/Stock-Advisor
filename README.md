@@ -54,22 +54,6 @@ MA 370.18 296.88 425.43 Mastercard Incorporated
 ```
 
 3. **Compile and Execute**
-  - Open your terminal or command prompt, navigate to the project directory, and run the following commands:
-  - On **macOS/Linux** (using `g++`):
-
-```
-Bash
-g++ Lab7.cpp -o stock_advisor
-./stock_advisor
-```
-
-  - On **Windows** (using `g++` via MinGW or similar):
-
-```
-Bash
-g++ Lab7.cpp -o stock_advisor.exe
-.\stock_advisor.exe
-```
 
 ## Output File (`StockOut.txt`)
 The program generates `StockOut.txt`, which contains two sections separated by "===":
