@@ -1,9 +1,3 @@
-//============================================================================
-// Anh Truong
-// truongdinhquanganh04@gmail.com
-// Lab 7 - Stock Advisor
-//============================================================================
-
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
@@ -323,63 +317,5 @@ void sSort(string symbol[], double price[], double price19[], double price23[], 
 	}
 
 }//sSort()
-
-////////////////////////////////////////////////////////////
-
-void signature(ofstream& stockOS) {
-	/* Pre: stockOS - Reference to a data file for output
-	 * Post: None
-	 * Purpose: Print programmer's name and email along with the title of the lab
-	 * 			to an output file */
-
-	stockOS << "=========================" << endl;
-	stockOS << "Programmed by: Anh Truong" << endl;
-	stockOS << "truongdinhquanganh04@gmail.com" << endl;
-	stockOS << "Lab 7 - Stock Advisor" << endl;
-}//signature()
-
-////////////////////////////////////////////////////////////
-
-void signature() {
-	/* Pre: None
-	 * Post: None
-	 * Purpose: Print programmer's name and email along with the title of the lab
-	 * 			to the screen (console) */
-
-	cout << "=========================" << endl;
-	cout << "Programmed by: Anh Truong" << endl;
-	cout << "truongdinhquanganh04@gmail.com" << endl;
-	cout << "Lab 7 - Stock Advisor" << endl;
-}//signature()
-
-////////////////////////////////////////////////////////////
-
-/*
-Average of all gains/losses: 82.87%
-
-How much do you want to pay per stock? $100
-
-INTC           52.34
-CMCSA          50.63
-KO             57.95
-BAC            45.76
-XOM            68.97
-CSCO           57.53
-PFE            45.67
-ORCL           83.73
-VZ             53.67
-MRK            80.16
-NEE            86.39
-NVS            95.53
-
-Enter a stock symbol (in UPPERCASE): V
-Visa Inc.: $228.60
-
-For the best possible return, I suggest you purchase MA
-=========================
-Programmed by: Anh Truong
-truongdinhquanganh04@gmail.com
-Lab 7 - Stock Advisor
-*/
 
 // Note: When viewing the output file, you should expand the file window to see all the data format
