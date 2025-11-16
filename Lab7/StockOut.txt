@@ -1,0 +1,110 @@
+Name                                                     Current Price               2019 Price               2023 Price                Gain/Loss
+Apple Inc.                                                      149.90                    73.41                   192.75                   162.57%
+Microsoft Corporation                                           285.77                   156.59                   315.25                   101.32%
+Alphabet Inc.                                                  2845.01                  1339.39                  2711.60                   102.45%
+Amazon.com Inc.                                                3172.69                  1847.84                  3080.93                    66.73%
+Tesla Inc.                                                      798.50                   418.33                   768.48                    83.70%
+Berkshire Hathaway Inc. (Class A)                            456459.00                223971.19                399459.00                    78.35%
+Berkshire Hathaway Inc. (Class B)                               304.00                   147.64                   280.05                    89.68%
+JPMorgan Chase & Co.                                            163.80                   137.45                   183.50                    33.50%
+Johnson & Johnson                                               173.02                   143.05                   156.76                     9.58%
+Visa Inc.                                                       228.60                   182.23                   217.02                    19.09%
+Procter & Gamble Co.                                            154.86                   125.63                   144.17                    14.76%
+UnitedHealth Group Inc.                                         461.77                   289.56                   342.33                    18.22%
+Mastercard Inc.                                                 356.81                   274.23                   416.12                    51.74%
+NVIDIA Corp.                                                    282.15                    57.10                   622.05                   989.40%
+The Home Depot Inc.                                             345.28                   215.77                   369.15                    71.08%
+Intel Corporation                                                52.34                    59.69                    49.72                   -16.70%
+The Walt Disney Company                                         141.07                   146.36                   130.01                   -11.17%
+Salesforce.com Inc.                                             230.91                   162.86                   227.67                    39.79%
+Comcast Corporation                                              50.63                    43.58                    42.42                    -2.66%
+The Coca-Cola Company                                            57.95                    54.53                    55.50                     1.78%
+Netflix Inc.                                                    416.76                   323.57                   315.03                    -2.64%
+Alibaba Group Holding Ltd.                                      149.25                   212.07                   196.41                    -7.38%
+Bank of America Corp.                                            45.76                    35.69                    52.70                    47.66%
+Nike Inc.                                                       141.43                    98.55                   143.02                    45.12%
+Adobe Inc.                                                      615.72                   327.42                   621.39                    89.78%
+Exxon Mobil Corporation                                          68.97                    69.41                    62.75                    -9.60%
+Cisco Systems Inc.                                               57.53                    47.27                    51.29                     8.50%
+AbbVie Inc.                                                     125.92                    80.22                   116.76                    45.55%
+Pfizer Inc.                                                      45.67                    37.40                    43.31                    15.80%
+PepsiCo Inc.                                                    171.92                   137.26                   153.44                    11.79%
+Walmart Inc.                                                    142.76                   118.83                   131.90                    11.00%
+Oracle Corporation                                               83.73                    52.18                    79.53                    52.41%
+Chevron Corporation                                             152.25                   121.67                   135.14                    11.07%
+Thermo Fisher Scientific Inc.                                   590.08                   315.57                   650.07                   106.00%
+Verizon Communications Inc.                                      53.67                    60.98                    53.07                   -12.97%
+PayPal Holdings Inc.                                            187.50                   108.77                   220.50                   102.72%
+Merck & Co. Inc.                                                 80.16                    79.10                    84.77                     7.17%
+Moderna Inc.                                                    159.47                    19.77                   210.33                   963.88%
+QUALCOMM Inc.                                                   160.42                    85.71                   175.35                   104.59%
+Accenture plc                                                   312.40                   197.70                   325.80                    64.80%
+Abbott Laboratories                                             119.28                    86.19                   122.58                    42.22%
+NextEra Energy Inc.                                              86.39                    53.43                    96.10                    79.86%
+Linde plc                                                       307.44                   203.98                   335.00                    64.23%
+Taiwan Semiconductor Manufacturing Co. Ltd.                     111.13                    56.53                   122.90                   117.41%
+Novartis AG                                                      95.53                    90.21                    92.57                     2.62%
+Union Pacific Corporation                                       244.83                   172.39                   214.12                    24.21%
+ServiceNow Inc.                                                 635.88                   292.22                   620.62                   112.38%
+3M Company                                                      157.75                   167.86                   153.36                    -8.64%
+BlackRock Inc.                                                  825.45                   436.97                   807.02                    84.69%
+United Parcel Service Inc.                                      211.50                   117.09                   194.56                    66.16%
+
+=========================
+
+Name                                                     Current Price               2019 Price               2023 Price                Gain/Loss
+NVIDIA Corp.                                                    282.15                    57.10                   622.05                   989.40%
+Moderna Inc.                                                    159.47                    19.77                   210.33                   963.88%
+Apple Inc.                                                      149.90                    73.41                   192.75                   162.57%
+Taiwan Semiconductor Manufacturing Co. Ltd.                     111.13                    56.53                   122.90                   117.41%
+ServiceNow Inc.                                                 635.88                   292.22                   620.62                   112.38%
+Thermo Fisher Scientific Inc.                                   590.08                   315.57                   650.07                   106.00%
+QUALCOMM Inc.                                                   160.42                    85.71                   175.35                   104.59%
+PayPal Holdings Inc.                                            187.50                   108.77                   220.50                   102.72%
+Alphabet Inc.                                                  2845.01                  1339.39                  2711.60                   102.45%
+Microsoft Corporation                                           285.77                   156.59                   315.25                   101.32%
+Adobe Inc.                                                      615.72                   327.42                   621.39                    89.78%
+Berkshire Hathaway Inc. (Class B)                               304.00                   147.64                   280.05                    89.68%
+BlackRock Inc.                                                  825.45                   436.97                   807.02                    84.69%
+Tesla Inc.                                                      798.50                   418.33                   768.48                    83.70%
+NextEra Energy Inc.                                              86.39                    53.43                    96.10                    79.86%
+Berkshire Hathaway Inc. (Class A)                            456459.00                223971.19                399459.00                    78.35%
+The Home Depot Inc.                                             345.28                   215.77                   369.15                    71.08%
+Amazon.com Inc.                                                3172.69                  1847.84                  3080.93                    66.73%
+United Parcel Service Inc.                                      211.50                   117.09                   194.56                    66.16%
+Accenture plc                                                   312.40                   197.70                   325.80                    64.80%
+Linde plc                                                       307.44                   203.98                   335.00                    64.23%
+Oracle Corporation                                               83.73                    52.18                    79.53                    52.41%
+Mastercard Inc.                                                 356.81                   274.23                   416.12                    51.74%
+Bank of America Corp.                                            45.76                    35.69                    52.70                    47.66%
+AbbVie Inc.                                                     125.92                    80.22                   116.76                    45.55%
+Nike Inc.                                                       141.43                    98.55                   143.02                    45.12%
+Abbott Laboratories                                             119.28                    86.19                   122.58                    42.22%
+Salesforce.com Inc.                                             230.91                   162.86                   227.67                    39.79%
+JPMorgan Chase & Co.                                            163.80                   137.45                   183.50                    33.50%
+Union Pacific Corporation                                       244.83                   172.39                   214.12                    24.21%
+Visa Inc.                                                       228.60                   182.23                   217.02                    19.09%
+UnitedHealth Group Inc.                                         461.77                   289.56                   342.33                    18.22%
+Pfizer Inc.                                                      45.67                    37.40                    43.31                    15.80%
+Procter & Gamble Co.                                            154.86                   125.63                   144.17                    14.76%
+PepsiCo Inc.                                                    171.92                   137.26                   153.44                    11.79%
+Chevron Corporation                                             152.25                   121.67                   135.14                    11.07%
+Walmart Inc.                                                    142.76                   118.83                   131.90                    11.00%
+Johnson & Johnson                                               173.02                   143.05                   156.76                     9.58%
+Cisco Systems Inc.                                               57.53                    47.27                    51.29                     8.50%
+Merck & Co. Inc.                                                 80.16                    79.10                    84.77                     7.17%
+Novartis AG                                                      95.53                    90.21                    92.57                     2.62%
+The Coca-Cola Company                                            57.95                    54.53                    55.50                     1.78%
+Netflix Inc.                                                    416.76                   323.57                   315.03                    -2.64%
+Comcast Corporation                                              50.63                    43.58                    42.42                    -2.66%
+Alibaba Group Holding Ltd.                                      149.25                   212.07                   196.41                    -7.38%
+3M Company                                                      157.75                   167.86                   153.36                    -8.64%
+Exxon Mobil Corporation                                          68.97                    69.41                    62.75                    -9.60%
+The Walt Disney Company                                         141.07                   146.36                   130.01                   -11.17%
+Verizon Communications Inc.                                      53.67                    60.98                    53.07                   -12.97%
+Intel Corporation                                                52.34                    59.69                    49.72                   -16.70%
+
+=========================
+Programmed by: Anh Truong
+truongdinhquanganh04@gmail.com
+Lab 7 - Stock Advisor

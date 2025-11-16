@@ -1,0 +1,50 @@
+AAPL 149.90 73.41 192.75 Apple Inc.
+MSFT 285.77 156.59 315.25 Microsoft Corporation
+GOOGL 2845.01 1339.39 2711.60 Alphabet Inc.
+AMZN 3172.69 1847.84 3080.93 Amazon.com Inc.
+TSLA 798.50 418.33 768.48 Tesla Inc.
+BRK-A 456459.00 223971.19 399459.00 Berkshire Hathaway Inc. (Class A)
+BRK-B 304.00 147.64 280.05 Berkshire Hathaway Inc. (Class B)
+JPM 163.80 137.45 183.50 JPMorgan Chase & Co.
+JNJ 173.02 143.05 156.76 Johnson & Johnson
+V 228.60 182.23 217.02 Visa Inc.
+PG 154.86 125.63 144.17 Procter & Gamble Co.
+UNH 461.77 289.56 342.33 UnitedHealth Group Inc.
+MA 356.81 274.23 416.12 Mastercard Inc.
+NVDA 282.15 57.10 622.05 NVIDIA Corp.
+HD 345.28 215.77 369.15 The Home Depot Inc.
+INTC 52.34 59.69 49.72 Intel Corporation
+DIS 141.07 146.36 130.01 The Walt Disney Company
+CRM 230.91 162.86 227.67 Salesforce.com Inc.
+CMCSA 50.63 43.58 42.42 Comcast Corporation
+KO 57.95 54.53 55.50 The Coca-Cola Company
+NFLX 416.76 323.57 315.03 Netflix Inc.
+BABA 149.25 212.07 196.41 Alibaba Group Holding Ltd.
+BAC 45.76 35.69 52.70 Bank of America Corp.
+NKE 141.43 98.55 143.02 Nike Inc.
+ADBE 615.72 327.42 621.39 Adobe Inc.
+XOM 68.97 69.41 62.75 Exxon Mobil Corporation
+CSCO 57.53 47.27 51.29 Cisco Systems Inc.
+ABBV 125.92 80.22 116.76 AbbVie Inc.
+PFE 45.67 37.40 43.31 Pfizer Inc.
+PEP 171.92 137.26 153.44 PepsiCo Inc.
+WMT 142.76 118.83 131.90 Walmart Inc.
+ORCL 83.73 52.18 79.53 Oracle Corporation
+CVX 152.25 121.67 135.14 Chevron Corporation
+TMO 590.08 315.57 650.07 Thermo Fisher Scientific Inc.
+VZ 53.67 60.98 53.07 Verizon Communications Inc.
+PYPL 187.50 108.77 220.50 PayPal Holdings Inc.
+MRK 80.16 79.10 84.77 Merck & Co. Inc.
+MRNA 159.47 19.77 210.33 Moderna Inc.
+QCOM 160.42 85.71 175.35 QUALCOMM Inc.
+ACN 312.40 197.70 325.80 Accenture plc
+ABT 119.28 86.19 122.58 Abbott Laboratories
+NEE 86.39 53.43 96.10 NextEra Energy Inc.
+LIN 307.44 203.98 335.00 Linde plc
+TSM 111.13 56.53 122.90 Taiwan Semiconductor Manufacturing Co. Ltd.
+NVS 95.53 90.21 92.57 Novartis AG
+UNP 244.83 172.39 214.12 Union Pacific Corporation
+NOW 635.88 292.22 620.62 ServiceNow Inc.
+MMM 157.75 167.86 153.36 3M Company
+BLK 825.45 436.97 807.02 BlackRock Inc.
+UPS 211.50 117.09 194.56 United Parcel Service Inc.
