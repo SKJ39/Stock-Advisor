@@ -1,5 +1,5 @@
 # Stock-Advisor
-This C++ program is a "Stock Advisor" that reads stock data from an input file (`StockData.txt`), performs various analyses, and provides interactive feedback and recommendations to the user. It also generates a formatted report (StockOut.txt) with the results.
+This C++ program is a "Stock Advisor" that reads stock data from an input file (`StockData.txt`), performs various analyses, and provides interactive feedback and recommendations to the user. It also generates a formatted report (`StockOut.txt`) with the results.
 
 ## Features
   - **File Input**: Reads stock data (symbol, name, current price, 2019 price, 2023 price) from `StockData.txt`
