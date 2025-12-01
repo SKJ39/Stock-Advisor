@@ -21,7 +21,7 @@ This C++ program is a "Stock Advisor" that reads stock data from an input file (
 ## Algorithms Used
 This program demonstrates two fundamental data structure algorithms:
   - **Sequential Search:** Implemented in the `search()` function to find a stock based on the user-provided symbol
-  - **Selection Sort:** Implemented in the `sSort()` function to sort the stocks in descending order of performance. The sort correctly maintains the integrity of the parallel arrays, sorting all data based on the change[] array
+  - **Selection Sort:** Implemented in the `sSort()` function to sort the stocks in descending order of performance. The sort correctly maintains the integrity of the parallel arrays, sorting all data based on the `change[]` array
 
 ## Run Instructions
 1. **Prerequisites**
